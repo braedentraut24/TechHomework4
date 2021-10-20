@@ -32,8 +32,8 @@
                 <span style="color: #162B32;">Tech HW 4</span>
             </a>
             <a class="nav-link" href="Page1.aspx">Gallery</a>
-            <a class="nav-link" href="Page2.aspx">Listings</a>
-            <a class="nav-link" href="#">Page Three</a>
+            <a class="nav-link" href="Listings.aspx">Listings</a>
+            <a class="nav-link" href="Page3.aspx">More Content</a>
         </nav>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>
