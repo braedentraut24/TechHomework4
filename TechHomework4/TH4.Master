@@ -23,6 +23,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <div class="w-100 text-center" style="background-color: lightgrey;">
+            <h3>50% off on all whips!</h3>
+        </div>
         <nav class="navbar rounded m-2" id="navbar">
             <a class="navbar-brand" href="#" id="logo">
                 <img src="black-t.png" width="30" height="30" alt="" loading="lazy">
