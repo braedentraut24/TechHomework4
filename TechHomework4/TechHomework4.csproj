@@ -67,8 +67,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="037.jpg" />
     <Content Include="black-t.png" />
+    <Content Include="delta.jpg" />
     <Content Include="Page1.aspx" />
+    <Content Include="stratos.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

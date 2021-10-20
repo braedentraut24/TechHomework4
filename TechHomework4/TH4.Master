@@ -24,15 +24,15 @@
 <body>
     <form id="form1" runat="server">
         <div class="w-100 text-center" style="background-color: lightgrey;">
-            <h3>50% off on all whips!</h3>
+            <h3>10% off on all Lancias!</h3>
         </div>
         <nav class="navbar rounded m-2" id="navbar">
             <a class="navbar-brand" href="#" id="logo">
                 <img src="black-t.png" width="30" height="30" alt="" loading="lazy">
                 <span style="color: #162B32;">Tech HW 4</span>
             </a>
-            <a class="nav-link" href="Page1.aspx">Home</a>
-            <a class="nav-link" href="#">Page Two</a>
+            <a class="nav-link" href="Page1.aspx">Gallery</a>
+            <a class="nav-link" href="Page2.aspx">Listings</a>
             <a class="nav-link" href="#">Page Three</a>
         </nav>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
