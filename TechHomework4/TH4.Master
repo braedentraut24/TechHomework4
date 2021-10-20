@@ -9,6 +9,17 @@
         integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    <style>
+        #logo {
+            pointer-events: none;
+        }
+        #navbar {
+            background-color: #ff4838;
+        }
+        .nav-link{
+            color: black;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -17,7 +28,7 @@
                 <img src="black-t.png" width="30" height="30" alt="" loading="lazy">
                 <span style="color: #162B32;">Tech HW 4</span>
             </a>
-            <a class="nav-link" href="#">Page One</a>
+            <a class="nav-link" href="Page1.aspx">Home</a>
             <a class="nav-link" href="#">Page Two</a>
             <a class="nav-link" href="#">Page Three</a>
         </nav>
